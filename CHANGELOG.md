@@ -9,3 +9,4 @@ All notable changes to the "foundation-pack" extension pack will be documented i
 ### Added
 
 - Initial release
+- Set auto publish workflow `publish-vscode-extension.yml`
