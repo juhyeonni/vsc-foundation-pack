@@ -3,7 +3,7 @@
   "displayName": "Foundation Pack",
   "publisher": "juhyeonni",
   "description": "Essential extensions for VSCode - language and framework agnostic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/juhyeonni/vsc-foundation-pack"
